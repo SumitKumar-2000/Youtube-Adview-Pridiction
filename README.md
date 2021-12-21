@@ -1,15 +1,15 @@
 # Youtube Adview pridiction
-<h3>Youtube is a world wide interactive platform, It is the second most visited website, right after Google itself. YouTube has more than one billion monthly users who collectively watch more than one billion hours of videos each day. As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute.<h3>
+Youtube is a world wide interactive platform, It is the second most visited website, right after Google itself. YouTube has more than one billion monthly users who collectively watch more than one billion hours of videos each day. As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute.
 
-<h3> Unlike popular videos which get number of likes and views by the time they are stated as popular, YouTube trending videos represents the content which is gaining viewership over a certain time period and has a potential to be
-popular. </h3>
+Unlike popular videos which get number of likes and views by the time they are stated as popular, YouTube trending videos represents the content which is gaining viewership over a certain time period and has a potential to be
+popular. 
 
 
 <p>&nbsp</p>
 
 # ⭕bjective
-<h3>To build a Machine Learning model which will predict youtube adview count based on other youtube metrics including likes, dislike, comments, views, watch time etc.
-Certain ML models have been trained and tested to pridict the adview score. </h3>
+To build a Machine Learning model which will predict youtube adview count based on other youtube metrics including likes, dislike, comments, views, watch time etc.
+Certain ML models have been trained and tested to pridict the adview score. 
 
 <p>&nbsp</p>
 
