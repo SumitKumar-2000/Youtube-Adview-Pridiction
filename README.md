@@ -92,19 +92,19 @@ Certain ML models have been trained and tested to pridict the adview score.
 
 ## <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" height="40" width="40">_____________ NumPy </a>
 
-## <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>_____________ Pandas</a>
+### <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> Pandas</a>
 
-## <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="60" height="40"/>___________ Matplotlib</a>
+### <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="60" height="40"/> Matplotlib</a>
 
-## <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>_____________ Seaborn</a> 
+### <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> Seaborn</a> 
 
-## <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>_____________ Sklearn </a>
+### <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> Sklearn </a>
 
-## <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40"/>________ Keras </a>
+### <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40"/> Keras </a>
 
-## <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/tensorflow/images/lockup.svg" alt="Keras" width="100" height="40"/>______ TensorFlow </a>
+### <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/tensorflow/images/lockup.svg" alt="Keras" width="100" height="40"/> TensorFlow </a>
 
-## <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/main-logo.svg" alt="Keras" width="40" height="50"/>_____________ Juypter Notebook </a>
+### <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/main-logo.svg" alt="Keras" width="40" height="50"/> Juypter Notebook </a>
 
 
 <p>&nbsp</p>
