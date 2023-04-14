@@ -94,11 +94,6 @@ Certain ML models have been trained and tested to pridict the adview score.
 
 
 <p>&nbsp</p>
-
-# Connect with me
-<a href="https://www.linkedin.com/in/sumit-rajput-861b37188" target="blank"><img align="left" src="https://camo.githubusercontent.com/abf60c33b21feee2a3f046782efaaafb2eebf16f30cede1cafa0df46e9049265/68747470733a2f2f696d616765302e666c617469636f6e2e636f6d2f69636f6e732f706e672f3132382f3137342f3137343835372e706e67" alt="https://www.linkedin.com/in/sumit-rajput-861b37188/" height="40" width="40" /></a> 
-
-<p>&nbsp</p>
 <p>&nbsp</p>
 
 <h3>Find useful, don't forget to hit ⭐</h3>
