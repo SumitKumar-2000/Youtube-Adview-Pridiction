@@ -90,21 +90,7 @@ Certain ML models have been trained and tested to pridict the adview score.
 
 # <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> Libraries & Technologies used
 
-### <img src="https://numpy.org/images/logo.svg" alt="numpy" height="40" width="40">
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-
-### <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="60" height="40"/>
-
-### <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-
-### <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40"/>
-
-### <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/tensorflow/images/lockup.svg" alt="Keras" width="100" height="40"/>
-
-###<img src="https://jupyter.org/assets/main-logo.svg" alt="Keras" width="40" height="50"/>
+## <img src="https://numpy.org/images/logo.svg" alt="numpy" height="40" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="60" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40"/>
 
 
 <p>&nbsp</p>
